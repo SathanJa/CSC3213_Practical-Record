@@ -1,1 +1,1 @@
-update every practicals sessiion exercises using DocBox# CSC3213_Practical-Record
+update every practicals session exercises using DocBox# CSC3213_Practical-Record
